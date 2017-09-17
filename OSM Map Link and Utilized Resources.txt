@@ -1,0 +1,18 @@
+1) OSM Map Link
+For my open street map project, I selected San Diego, California. This is the city where 
+I grew up and it is the location I feel most comfortable exploring. 
+I procured my .osm data from MapZen using their prepared San Diego Metro Area extract.
+https://mapzen.com/data/metro-extracts/metro/san-diego_california/
+
+2) Websites and resources used
+- COUNTLESS Udacity Forum posts
+- A LOT of StackOverflow forum posts including (but not limited to):
+	- http://stackoverflow.com/questions/7058120/whats-the-best-way-to-format-a-phone-number-in-python
+	- http://stackoverflow.com/questions/13748674/python-re-sub-how-to-substitute-all-u-or-us-with-you
+	- http://stackoverflow.com/questions/905379/what-is-the-difference-between-join-and-union
+- A LOT of regular expression help including (but not limited to):
+ - https://docs.python.org/2/library/re.html
+ - https://docs.python.org/2/howto/regex.html
+ - https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/
+ - https://regex101.com/#python
+ - https://www.tutorialspoint.com/python/python_reg_expressions.htm
